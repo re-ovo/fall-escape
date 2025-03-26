@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@dimforge/rapier2d": "^0.15.0",
     "matter-js": "^0.20.0",
     "pixi.js": "^8.9.0",
     "react": "^19.0.0",
