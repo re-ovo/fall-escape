@@ -2,6 +2,9 @@
 
 一个基于物理的迷宫游戏，使用 React + Matter.js + PIXI.js 开发，并且支持自定义关卡。
 
+[在线预览](https://fall-escape-react.vercel.app/)
+
+
 <img src="./doc/screenshot.png" width="300" />
 <img src="./doc/custom.png" width="200" />
 
